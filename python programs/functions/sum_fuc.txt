@@ -1,0 +1,6 @@
+def add(x,y):
+    c=x+y
+    d=y-x
+    return c,d
+res1,res2=add(3,6)
+print(res1,res2)
